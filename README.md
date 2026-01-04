@@ -1,4 +1,4 @@
-# 🩺 AI LegMedical Imaging AI Agent
+# 🩺 AI Medical Imaging AI Agent
 
 ## 🚀 Overview
 • Built an Agentic AI–based medical imaging system to analyse X-ray, MRI, CT scan, and ultrasound images for AI-assisted diagnosis support
