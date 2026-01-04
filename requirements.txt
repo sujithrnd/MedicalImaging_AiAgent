@@ -1,0 +1,21 @@
+
+# Image processing
+Pillow
+#Tools for web searching
+duckduckgo-search
+
+#UI
+streamlit
+ddgs
+
+#agentic AI framework
+openai
+agno
+
+# API layer
+fastapi
+uvicorn
+python-multipart
+
+# Environment variables
+python-dotenv
