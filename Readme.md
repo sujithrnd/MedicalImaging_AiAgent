@@ -4,7 +4,7 @@
 ## 🚀 Overview
 - Built an Agentic AI–based medical imaging system to analyse X-ray, MRI, CT scan, and ultrasound images for AI-assisted diagnosis support.
 - Designed a multi-agent architecture with Medical Imaging Analysis Agent, Diagnostic Reasoning Agent, and Healthcare Coordinator Agent to autonomously process and interpret scans.
-- Leveraged Gemini Flash LLM to generate contextual diagnostic insights and explanations from imaging outputs.
+- Leveraged LLM to generate contextual diagnostic insights and explanations from imaging outputs.
 - Implemented Agentic AI design patterns (Tool Use, ReAct, Planning) to enable autonomous decision-making and reasoning across medical workflows.
 - Integrated AI medical imaging pipelines to detect anomalies and highlight potential issues that may be overlooked in manual review.
 - Enabled AI-assisted clinical Q&A, allowing doctors to ask questions about scans and receive explainable responses.
