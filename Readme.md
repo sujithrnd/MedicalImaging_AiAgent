@@ -1,4 +1,5 @@
 # 🩺 AI Medical Imaging AI Agent
+<img width="1802" height="902" alt="image" src="https://github.com/user-attachments/assets/8a36767f-5d08-4f0c-8b9c-9148c497089c" />
 
 ## 🚀 Overview
 • Built an Agentic AI–based medical imaging system to analyse X-ray, MRI, CT scan, and ultrasound images for AI-assisted diagnosis support
