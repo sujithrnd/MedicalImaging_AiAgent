@@ -11,7 +11,8 @@
 • Architected the system to be modular, extensible, and cloud-ready, supporting hospital-scale deployment and future imaging modalities
 
 ***Flow*
-![Uploading agentic.png…]()
+<img width="991" height="408" alt="agentic" src="https://github.com/user-attachments/assets/907c16c2-4b69-4e5c-8480-0b786b523903" />
+
 
 ** User Interface **
 <img width="1918" height="997" alt="medical1" src="https://github.com/user-attachments/assets/fbea7d41-7a76-4155-a5cf-321badfd2ff0" />
