@@ -10,7 +10,7 @@
 • Developed a smart AI healthcare assistant to support doctors with faster image interpretation and patient diagnosis insights
 • Architected the system to be modular, extensible, and cloud-ready, supporting hospital-scale deployment and future imaging modalities
 
-***Flow*
+**Agentic AI Flow**
 <img width="991" height="408" alt="agentic" src="https://github.com/user-attachments/assets/907c16c2-4b69-4e5c-8480-0b786b523903" />
 
 
