@@ -10,7 +10,13 @@
 • Developed a smart AI healthcare assistant to support doctors with faster image interpretation and patient diagnosis insights
 • Architected the system to be modular, extensible, and cloud-ready, supporting hospital-scale deployment and future imaging modalities
 
+***Flow*
+![Uploading agentic.png…]()
 
+** User Interface **
+<img width="1918" height="997" alt="medical1" src="https://github.com/user-attachments/assets/fbea7d41-7a76-4155-a5cf-321badfd2ff0" />
+
+<img width="1458" height="673" alt="medical2" src="https://github.com/user-attachments/assets/b94bb7f3-63d1-4e36-ba86-be7279a544b9" />
 
 ```bash
 #UV installation in windows
